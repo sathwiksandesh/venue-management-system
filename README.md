@@ -1,7 +1,7 @@
 # 🎯 SmartVenue — Intelligent Crowd & Event Management System
 
-🔗 **Live Demo:** https://venue-management-system-steel.vercel.app/
-
+🔗 **Vercel Deployment Demo:** https://venue-management-system-steel.vercel.app/
+🔗 **Google Cloud Run Deployent Link:** https://venue-management-system-674575717320.asia-south1.run.app/
 ---
 
 ## 📌 Overview
@@ -153,21 +153,18 @@ The system simulates real-time data and presents it through an interactive, mode
     * Alerts
     * Metrics
 
----
 
-### 🔹 Components
-```
+### 🔹 Components Overview
+
 | Component         | Purpose                   |
-| ----------------- | ------------------------- |
-| Header            | Top navigation + controls |
-| MetricCard        | KPI display               |
-| VenueMap          | Heatmap visualization     |
-| GateManagement    | Gate analytics            |
-| ConcessionTracker | Food stall tracking       |
-| FlowAnalytics     | Charts & graphs           |
-| AlertPanel        | Live alerts               |
-```
----
+|------------------|---------------------------|
+| 🧭 Header            | Top navigation + controls |
+| 📊 MetricCard        | KPI display               |
+| 🗺️ VenueMap          | Heatmap visualization     |
+| 🚪 GateManagement    | Gate analytics            |
+| 🍔 ConcessionTracker | Food stall tracking       |
+| 📈 FlowAnalytics     | Charts & graphs           |
+| 🚨 AlertPanel        | Live alerts               |
 
 ### 🔹 Layout
 
