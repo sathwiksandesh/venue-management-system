@@ -14,8 +14,11 @@ It provides live insights into:
 
 The system simulates real-time data and presents it through an interactive, modern UI.
 
-🔗 **Vercel Deployment Demo:** https://venue-management-system-steel.vercel.app/
-🔗 **Google Cloud Run Deployent Link:** https://venue-management-system-674575717320.asia-south1.run.app/
+🔗 **Vercel Deployment Demo:**  
+https://venue-management-system-steel.vercel.app/
+
+🔗 **Google Cloud Run Deployment:**  
+https://venue-management-system-674575717320.asia-south1.run.app/
 ---
 
 ## 🚀 Features
