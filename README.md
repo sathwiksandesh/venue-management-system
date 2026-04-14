@@ -1,9 +1,5 @@
 # 🎯 SmartVenue — Intelligent Crowd & Event Management System
-
-🔗 **Vercel Deployment Demo:** https://venue-management-system-steel.vercel.app/
-🔗 **Google Cloud Run Deployent Link:** https://venue-management-system-674575717320.asia-south1.run.app/
 ---
-
 ## 📌 Overview
 
 **SmartVenue** is a real-time crowd and event management dashboard designed for large-scale venues like stadiums, concerts, and public events.
@@ -18,6 +14,8 @@ It provides live insights into:
 
 The system simulates real-time data and presents it through an interactive, modern UI.
 
+🔗 **Vercel Deployment Demo:** https://venue-management-system-steel.vercel.app/
+🔗 **Google Cloud Run Deployent Link:** https://venue-management-system-674575717320.asia-south1.run.app/
 ---
 
 ## 🚀 Features
